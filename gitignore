@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Environment Variables
+.env
+
+# Node Modules
+node_modules/
+
+# Build
+dist/
+build/
+
+# Mac
+.DS_Store
+
+# Uploads
+uploads/
+
+# Dataset Files
+datasets/raw/
+datasets/processed/
+datasets/embeddings/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log

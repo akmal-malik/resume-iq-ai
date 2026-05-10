@@ -1,0 +1,43 @@
+python
+sql
+tableau
+power bi
+excel
+react
+javascript
+typescript
+node js
+express
+mongodb
+postgresql
+mysql
+docker
+kubernetes
+aws
+azure
+gcp
+tensorflow
+pytorch
+machine learning
+deep learning
+nlp
+fastapi
+django
+flask
+java
+c++
+git
+github
+linux
+data analysis
+data visualization
+scikit learn
+pandas
+numpy
+spark
+hadoop
+rest api
+graphql
+tailwind css
+html
+css
