@@ -300,6 +300,14 @@ ResumeIQ AI aims to bridge the gap between traditional ATS systems and modern AI
 
 ---
 
+# Screenshots
+
+## Upload Page
+![Upload Page](screenshots/Uploadpage.jpg)
+
+## Dashboard
+![Dashboard](screenshots/dashboard.jpg)
+
 # Author
 
 Mohammad Akmal Salim Malik
